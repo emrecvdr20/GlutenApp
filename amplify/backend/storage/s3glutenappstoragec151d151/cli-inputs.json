@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3glutenappstoragec151d151",
+  "bucketName": "glutenapp-storage-c151d151",
+  "policyUUID": "a505046f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

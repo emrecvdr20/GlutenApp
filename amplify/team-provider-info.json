@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-glutenapp-staging-130348-authRole",
+      "UnauthRoleArn": "arn:aws:iam::222413359793:role/amplify-glutenapp-staging-130348-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::222413359793:role/amplify-glutenapp-staging-130348-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-glutenapp-staging-130348-deployment",
+      "UnauthRoleName": "amplify-glutenapp-staging-130348-unauthRole",
+      "StackName": "amplify-glutenapp-staging-130348",
+      "StackId": "arn:aws:cloudformation:eu-west-1:222413359793:stack/amplify-glutenapp-staging-130348/1dada270-e5c5-11ed-addf-027d51bbd377",
+      "AmplifyAppId": "d3sr67bvmeoxou"
+    },
+    "categories": {
+      "auth": {
+        "GlutenApp": {}
+      },
+      "api": {
+        "GlutenApp": {}
+      },
+      "storage": {
+        "s3glutenappstoragec151d151": {}
+      }
+    }
+  }
+}
